@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\4.18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|D:\\vs\\4.18\\4.18\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|solutionrelative:4.18\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|D:\\vs\\4.18\\4.18\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|solutionrelative:4.18\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|D:\\vs\\4.18\\4.18\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|solutionrelative:4.18\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|D:\\vs\\4.18\\4.18\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|solutionrelative:4.18\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|D:\\vs\\4.18\\4.18\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7332CD15-F7DB-4744-BBDF-0189737B5832}|4.18\\4.18.vcxproj|solutionrelative:4.18\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.c",
+              "DocumentMoniker": "D:\\vs\\4.18\\4.18\\5.c",
+              "RelativeDocumentMoniker": "4.18\\5.c",
+              "ToolTip": "D:\\vs\\4.18\\4.18\\5.c",
+              "RelativeToolTip": "4.18\\5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T14:30:15.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.c",
+              "DocumentMoniker": "D:\\vs\\4.18\\4.18\\4.c",
+              "RelativeDocumentMoniker": "4.18\\4.c",
+              "ToolTip": "D:\\vs\\4.18\\4.18\\4.c",
+              "RelativeToolTip": "4.18\\4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T10:13:37.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.c",
+              "DocumentMoniker": "D:\\vs\\4.18\\4.18\\3.c",
+              "RelativeDocumentMoniker": "4.18\\3.c",
+              "ToolTip": "D:\\vs\\4.18\\4.18\\3.c",
+              "RelativeToolTip": "4.18\\3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T09:03:27.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2.c",
+              "DocumentMoniker": "D:\\vs\\4.18\\4.18\\2.c",
+              "RelativeDocumentMoniker": "4.18\\2.c",
+              "ToolTip": "D:\\vs\\4.18\\4.18\\2.c",
+              "RelativeToolTip": "4.18\\2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T04:12:36.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1.c",
+              "DocumentMoniker": "D:\\vs\\4.18\\4.18\\1.c",
+              "RelativeDocumentMoniker": "4.18\\1.c",
+              "ToolTip": "D:\\vs\\4.18\\4.18\\1.c",
+              "RelativeToolTip": "4.18\\1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-18T04:09:17.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
